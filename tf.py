@@ -382,7 +382,8 @@ elif  indicador == 'Indicadores':
     
     vi4= vi4.groupby(['edad_per'])[['num_corre']].count().reset_index()
     
-    fig241 = px.bar(vi4, x='edad_per', y='num_corre', width=500, height =370)
+    fig241 = px.bar(vi4, x='edad_per', y='num_corre', width=500, height =370,color="edad_per")
+
 
     fig241.update_layout(xaxis_title="<b>Rango de edades<b>",
                   yaxis_title="<b>Cantidad<b>",
