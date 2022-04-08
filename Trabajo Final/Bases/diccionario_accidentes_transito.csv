@@ -1,0 +1,510 @@
+Variable,Etiqueta,Codigo,Valor
+g_hora,Grupo de hora,1,00:00 a 05:59
+g_hora,Grupo de hora,2,06:00 a 11:59
+g_hora,Grupo de hora,3,12:00 a 17:59
+g_hora,Grupo de hora,4,18:00 a 23:59
+g_hora_5,"Grupo de hora mañana, tarde y noche",1,Mañana
+g_hora_6,"Grupo de hora mañana, tarde y noche",2,Tarde
+g_hora_7,"Grupo de hora mañana, tarde y noche",3,Noche
+mes_ocu,Mes de ocurrencia,1,Enero
+mes_ocu,Mes de ocurrencia,2,Febrero
+mes_ocu,Mes de ocurrencia,3,Marzo
+mes_ocu,Mes de ocurrencia,4,Abril
+mes_ocu,Mes de ocurrencia,5,Mayo
+mes_ocu,Mes de ocurrencia,6,Junio
+mes_ocu,Mes de ocurrencia,7,Julio
+mes_ocu,Mes de ocurrencia,8,Agosto 
+mes_ocu,Mes de ocurrencia,9,Septiembre
+mes_ocu,Mes de ocurrencia,10,Octubre
+mes_ocu,Mes de ocurrencia,11,Noviembre
+mes_ocu,Mes de ocurrencia,12,Diciembre
+día_sem_ocu,Día de la semana de ocurrencia,1,Lunes
+día_sem_ocu,Día de la semana de ocurrencia,2,Martes
+día_sem_ocu,Día de la semana de ocurrencia,3,Miércoles
+día_sem_ocu,Día de la semana de ocurrencia,4,Jueves
+día_sem_ocu,Día de la semana de ocurrencia,5,Viernes
+día_sem_ocu,Día de la semana de ocurrencia,6,Sábado
+día_sem_ocu,Día de la semana de ocurrencia,7,Domingo
+depto_ocu,Departamento de ocurrencia,1,Guatemala
+depto_ocu,Departamento de ocurrencia,2,El Progreso
+depto_ocu,Departamento de ocurrencia,3,Sacatepéquez
+depto_ocu,Departamento de ocurrencia,4,Chimaltenango
+depto_ocu,Departamento de ocurrencia,5,Escuintla
+depto_ocu,Departamento de ocurrencia,6,Santa Rosa
+depto_ocu,Departamento de ocurrencia,7,Sololá
+depto_ocu,Departamento de ocurrencia,8,Totonicapán
+depto_ocu,Departamento de ocurrencia,9,Quetzaltenango
+depto_ocu,Departamento de ocurrencia,10,Suchitepéquez
+depto_ocu,Departamento de ocurrencia,11,Retalhuleu
+depto_ocu,Departamento de ocurrencia,12,San Marcos
+depto_ocu,Departamento de ocurrencia,13,Huehuetenango
+depto_ocu,Departamento de ocurrencia,14,Quiché
+depto_ocu,Departamento de ocurrencia,15,Baja Verapaz
+depto_ocu,Departamento de ocurrencia,16,Alta Verapaz
+depto_ocu,Departamento de ocurrencia,17,Petén
+depto_ocu,Departamento de ocurrencia,18,Izabal
+depto_ocu,Departamento de ocurrencia,19,Zacapa
+depto_ocu,Departamento de ocurrencia,20,Chiquimula
+depto_ocu,Departamento de ocurrencia,21,Jalapa
+depto_ocu,Departamento de ocurrencia,22,Jutiapa
+mupio_ocu,Municipio de ocurrencia,101,Guatemala 
+mupio_ocu,Municipio de ocurrencia,102,Santa Catarina Pinula 
+mupio_ocu,Municipio de ocurrencia,103,San José Pinula
+mupio_ocu,Municipio de ocurrencia,104,San José del Golfo
+mupio_ocu,Municipio de ocurrencia,105,Palencia
+mupio_ocu,Municipio de ocurrencia,106,Chinautla
+mupio_ocu,Municipio de ocurrencia,107,San Pedro Ayampuc
+mupio_ocu,Municipio de ocurrencia,108,Mixco
+mupio_ocu,Municipio de ocurrencia,109,San Pedro Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,110,San Juan Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,111,San Raymundo
+mupio_ocu,Municipio de ocurrencia,112,Chuarrancho
+mupio_ocu,Municipio de ocurrencia,113,Fraijanes
+mupio_ocu,Municipio de ocurrencia,114,Amatitlán
+mupio_ocu,Municipio de ocurrencia,115,Villa Nueva
+mupio_ocu,Municipio de ocurrencia,116,Villa Canales
+mupio_ocu,Municipio de ocurrencia,117,Petapa 
+mupio_ocu,Municipio de ocurrencia,201,Guastatoya
+mupio_ocu,Municipio de ocurrencia,202,Morazán
+mupio_ocu,Municipio de ocurrencia,203,San Agustín Acasaguastlán
+mupio_ocu,Municipio de ocurrencia,204,San Cristóbal Acasaguastlán 
+mupio_ocu,Municipio de ocurrencia,205,El Jícaro
+mupio_ocu,Municipio de ocurrencia,206,Sansare
+mupio_ocu,Municipio de ocurrencia,207,Sanarate
+mupio_ocu,Municipio de ocurrencia,208,San Antonio la Paz
+mupio_ocu,Municipio de ocurrencia,301,Antigua Guatemala
+mupio_ocu,Municipio de ocurrencia,302,Jocotenango
+mupio_ocu,Municipio de ocurrencia,303,Pastores
+mupio_ocu,Municipio de ocurrencia,304,Sumpango
+mupio_ocu,Municipio de ocurrencia,305,Santo Domingo Xenacoj
+mupio_ocu,Municipio de ocurrencia,306,Santiago Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,307,San Bartolomé Milpas Altas
+mupio_ocu,Municipio de ocurrencia,308,San Lucas Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,309,Santa Lucía Milpas Altas
+mupio_ocu,Municipio de ocurrencia,310,Magdalena Milpas Altas
+mupio_ocu,Municipio de ocurrencia,311,Santa María de Jesús
+mupio_ocu,Municipio de ocurrencia,312,Ciudad Vieja
+mupio_ocu,Municipio de ocurrencia,313,San Miguel Dueñas
+mupio_ocu,Municipio de ocurrencia,314,San Juan Alotenango
+mupio_ocu,Municipio de ocurrencia,315,San Antonio Aguas Calientes
+mupio_ocu,Municipio de ocurrencia,316,Santa Catarina Barahona
+mupio_ocu,Municipio de ocurrencia,401,Chimaltenango
+mupio_ocu,Municipio de ocurrencia,402,San José  Poaquíl
+mupio_ocu,Municipio de ocurrencia,403,San Martín Jilotepeque
+mupio_ocu,Municipio de ocurrencia,404,Comalapa
+mupio_ocu,Municipio de ocurrencia,405,Santa Apolonia
+mupio_ocu,Municipio de ocurrencia,406,Tecpán Guatemala
+mupio_ocu,Municipio de ocurrencia,407,Patzún 
+mupio_ocu,Municipio de ocurrencia,408,San Miguel Pochuta
+mupio_ocu,Municipio de ocurrencia,409,Patzicía
+mupio_ocu,Municipio de ocurrencia,410,Santa Cruz Balanyá
+mupio_ocu,Municipio de ocurrencia,411,Acatenango
+mupio_ocu,Municipio de ocurrencia,412,Yepocapa
+mupio_ocu,Municipio de ocurrencia,413,San Andrés Itzapa
+mupio_ocu,Municipio de ocurrencia,414,Parramos
+mupio_ocu,Municipio de ocurrencia,415,Zaragoza
+mupio_ocu,Municipio de ocurrencia,416,El Tejar
+mupio_ocu,Municipio de ocurrencia,501,Escuintla
+mupio_ocu,Municipio de ocurrencia,502,Santa Lucía Cotzumalguapa
+mupio_ocu,Municipio de ocurrencia,503,La Democracia
+mupio_ocu,Municipio de ocurrencia,504,Siquinalá
+mupio_ocu,Municipio de ocurrencia,505,Masagua
+mupio_ocu,Municipio de ocurrencia,506,Tiquisate
+mupio_ocu,Municipio de ocurrencia,507,La Gomera
+mupio_ocu,Municipio de ocurrencia,508,Guanagazapa
+mupio_ocu,Municipio de ocurrencia,509,San José
+mupio_ocu,Municipio de ocurrencia,510,Iztapa
+mupio_ocu,Municipio de ocurrencia,511,Palín
+mupio_ocu,Municipio de ocurrencia,512,San Vicente Pacaya
+mupio_ocu,Municipio de ocurrencia,513,Nueva Concepción
+mupio_ocu,Municipio de ocurrencia,514,Sipacate
+mupio_ocu,Municipio de ocurrencia,601,Cuilapa
+mupio_ocu,Municipio de ocurrencia,602,Barberena
+mupio_ocu,Municipio de ocurrencia,603,Santa Rosa de Lima
+mupio_ocu,Municipio de ocurrencia,604,Casillas
+mupio_ocu,Municipio de ocurrencia,605,San Rafael las Flores
+mupio_ocu,Municipio de ocurrencia,606,Oratorio
+mupio_ocu,Municipio de ocurrencia,607,San Juan Tecuaco
+mupio_ocu,Municipio de ocurrencia,608,Chiquimulilla
+mupio_ocu,Municipio de ocurrencia,609,Taxisco
+mupio_ocu,Municipio de ocurrencia,610,Santa María Ixhuatán
+mupio_ocu,Municipio de ocurrencia,611,Guazacapán
+mupio_ocu,Municipio de ocurrencia,612,Santa Cruz el Naranjo
+mupio_ocu,Municipio de ocurrencia,613,Pueblo Nuevo Viñas
+mupio_ocu,Municipio de ocurrencia,614,Nueva Santa Rosa
+mupio_ocu,Municipio de ocurrencia,701,Sololá
+mupio_ocu,Municipio de ocurrencia,702,San José Chacayá
+mupio_ocu,Municipio de ocurrencia,703,Santa María Visitación
+mupio_ocu,Municipio de ocurrencia,704,Santa Lucía Utatlán
+mupio_ocu,Municipio de ocurrencia,705,Nahualá
+mupio_ocu,Municipio de ocurrencia,706,Santa Catarina Ixtahuacán
+mupio_ocu,Municipio de ocurrencia,707,Santa Clara la Laguna
+mupio_ocu,Municipio de ocurrencia,708,Concepción
+mupio_ocu,Municipio de ocurrencia,709,San Andrés Semetabaj
+mupio_ocu,Municipio de ocurrencia,710,Panajachel
+mupio_ocu,Municipio de ocurrencia,711,Santa Catarina Palopó
+mupio_ocu,Municipio de ocurrencia,712,San Antonio Palopó
+mupio_ocu,Municipio de ocurrencia,713,San Lucas Tolimán
+mupio_ocu,Municipio de ocurrencia,714,Santa Cruz la Laguna
+mupio_ocu,Municipio de ocurrencia,715,San Pablo la Laguna
+mupio_ocu,Municipio de ocurrencia,716,San Marcos la Laguna
+mupio_ocu,Municipio de ocurrencia,717,San Juan la Laguna
+mupio_ocu,Municipio de ocurrencia,718,San Pedro la Laguna
+mupio_ocu,Municipio de ocurrencia,719,Santiago Atitlán
+mupio_ocu,Municipio de ocurrencia,801,Totonicapán
+mupio_ocu,Municipio de ocurrencia,802,San Cristóbal Totonicapán
+mupio_ocu,Municipio de ocurrencia,803,San Francisco el Alto
+mupio_ocu,Municipio de ocurrencia,804,San Andrés Xecul
+mupio_ocu,Municipio de ocurrencia,805,Momostenango
+mupio_ocu,Municipio de ocurrencia,806,Santa María Chiquimula
+mupio_ocu,Municipio de ocurrencia,807,Santa Lucía la Reforma
+mupio_ocu,Municipio de ocurrencia,808,San Bartolo Aguas Calientes
+mupio_ocu,Municipio de ocurrencia,901,Quetzaltenango
+mupio_ocu,Municipio de ocurrencia,902,Salcajá
+mupio_ocu,Municipio de ocurrencia,903,Olintepeque
+mupio_ocu,Municipio de ocurrencia,904,San Carlos Sija
+mupio_ocu,Municipio de ocurrencia,905,Sibilia
+mupio_ocu,Municipio de ocurrencia,906,Cabricán
+mupio_ocu,Municipio de ocurrencia,907,Cajolá
+mupio_ocu,Municipio de ocurrencia,908,San Miguel Siguilá
+mupio_ocu,Municipio de ocurrencia,909,San Juan Ostuncalco
+mupio_ocu,Municipio de ocurrencia,910,San Mateo
+mupio_ocu,Municipio de ocurrencia,911,Concepción Chiquirichapa
+mupio_ocu,Municipio de ocurrencia,912,San Martín Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,913,Almolonga
+mupio_ocu,Municipio de ocurrencia,914,Cantel
+mupio_ocu,Municipio de ocurrencia,915,Huitán
+mupio_ocu,Municipio de ocurrencia,916,Zunil
+mupio_ocu,Municipio de ocurrencia,917,Colomba
+mupio_ocu,Municipio de ocurrencia,918,San Francisco la Unión
+mupio_ocu,Municipio de ocurrencia,919,El Palmar
+mupio_ocu,Municipio de ocurrencia,920,Coatepeque
+mupio_ocu,Municipio de ocurrencia,921,Génova
+mupio_ocu,Municipio de ocurrencia,922,Flores Costa Cuca 
+mupio_ocu,Municipio de ocurrencia,923,La Esperanza
+mupio_ocu,Municipio de ocurrencia,924,Palestina de los Altos
+mupio_ocu,Municipio de ocurrencia,1001,Mazatenango
+mupio_ocu,Municipio de ocurrencia,1002,Cuyotenango
+mupio_ocu,Municipio de ocurrencia,1003,San Francisco Zapotitlán
+mupio_ocu,Municipio de ocurrencia,1004,San Bernardino
+mupio_ocu,Municipio de ocurrencia,1005,San José el Ídolo
+mupio_ocu,Municipio de ocurrencia,1006,Santo Domingo Suchitepéquez
+mupio_ocu,Municipio de ocurrencia,1007,San Lorenzo
+mupio_ocu,Municipio de ocurrencia,1008,Samayac
+mupio_ocu,Municipio de ocurrencia,1009,San Pablo Jocopilas
+mupio_ocu,Municipio de ocurrencia,1010,San Antonio Suchitepéquez
+mupio_ocu,Municipio de ocurrencia,1011,San Miguel Panán
+mupio_ocu,Municipio de ocurrencia,1012,San Gabriel 
+mupio_ocu,Municipio de ocurrencia,1013,Chicacao
+mupio_ocu,Municipio de ocurrencia,1014,Patulul
+mupio_ocu,Municipio de ocurrencia,1015,Santa Bárbara
+mupio_ocu,Municipio de ocurrencia,1016,San Juan Bautista
+mupio_ocu,Municipio de ocurrencia,1017,Santo Tomas la Unión
+mupio_ocu,Municipio de ocurrencia,1018,Zunilito
+mupio_ocu,Municipio de ocurrencia,1019,Pueblo Nuevo
+mupio_ocu,Municipio de ocurrencia,1020,Río Bravo
+mupio_ocu,Municipio de ocurrencia,1021,San José La Máquina
+mupio_ocu,Municipio de ocurrencia,1101,Retalhuleu
+mupio_ocu,Municipio de ocurrencia,1102,San Sebastián
+mupio_ocu,Municipio de ocurrencia,1103,Santa Cruz Muluá
+mupio_ocu,Municipio de ocurrencia,1104,San Martín Zapotitlán
+mupio_ocu,Municipio de ocurrencia,1105,San Felipe Retalhuleu
+mupio_ocu,Municipio de ocurrencia,1106,San Andrés Villa Seca
+mupio_ocu,Municipio de ocurrencia,1107,Champerico
+mupio_ocu,Municipio de ocurrencia,1108,Nuevo San Carlos
+mupio_ocu,Municipio de ocurrencia,1109,El Asintal
+mupio_ocu,Municipio de ocurrencia,1201,San Marcos
+mupio_ocu,Municipio de ocurrencia,1202,San Pedro Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,1203,San Antonio Sacatepéquez
+mupio_ocu,Municipio de ocurrencia,1204,Comitancillo
+mupio_ocu,Municipio de ocurrencia,1205,San Miguel Ixtahuacán
+mupio_ocu,Municipio de ocurrencia,1206,Concepción Tutuapa
+mupio_ocu,Municipio de ocurrencia,1207,Tacaná 
+mupio_ocu,Municipio de ocurrencia,1208,Sibinal
+mupio_ocu,Municipio de ocurrencia,1209,Tajumulco 
+mupio_ocu,Municipio de ocurrencia,1210,Tejutla
+mupio_ocu,Municipio de ocurrencia,1211,San Rafael Pie de la Cuesta
+mupio_ocu,Municipio de ocurrencia,1212,Nuevo Progreso
+mupio_ocu,Municipio de ocurrencia,1213,El Tumbador
+mupio_ocu,Municipio de ocurrencia,1214,El Rodeo
+mupio_ocu,Municipio de ocurrencia,1215,Malacatán
+mupio_ocu,Municipio de ocurrencia,1216,Catarina
+mupio_ocu,Municipio de ocurrencia,1217,Ayutla 
+mupio_ocu,Municipio de ocurrencia,1218,Ocós
+mupio_ocu,Municipio de ocurrencia,1219,San Pablo
+mupio_ocu,Municipio de ocurrencia,1220,El Quetzal 
+mupio_ocu,Municipio de ocurrencia,1221,La Reforma
+mupio_ocu,Municipio de ocurrencia,1222,Pajapita
+mupio_ocu,Municipio de ocurrencia,1223,Ixchiguán
+mupio_ocu,Municipio de ocurrencia,1224,San José Ojetenam
+mupio_ocu,Municipio de ocurrencia,1225,San Cristóbal Cucho
+mupio_ocu,Municipio de ocurrencia,1226,Sipacapa
+mupio_ocu,Municipio de ocurrencia,1227,Esquipulas Palo Gordo
+mupio_ocu,Municipio de ocurrencia,1228,Río Blanco
+mupio_ocu,Municipio de ocurrencia,1229,San Lorenzo
+mupio_ocu,Municipio de ocurrencia,1230,La Blanca
+mupio_ocu,Municipio de ocurrencia,1301,Huehuetenango
+mupio_ocu,Municipio de ocurrencia,1302,Chiantla
+mupio_ocu,Municipio de ocurrencia,1303,Malacatancito
+mupio_ocu,Municipio de ocurrencia,1304,Cuilco
+mupio_ocu,Municipio de ocurrencia,1305,Nentón
+mupio_ocu,Municipio de ocurrencia,1306,San Pedro Necta
+mupio_ocu,Municipio de ocurrencia,1307,Jacaltenango
+mupio_ocu,Municipio de ocurrencia,1308,San Pedro Soloma
+mupio_ocu,Municipio de ocurrencia,1309,San Ildefonso Ixtahuacán
+mupio_ocu,Municipio de ocurrencia,1310,Santa Bárbara
+mupio_ocu,Municipio de ocurrencia,1311,La Libertad
+mupio_ocu,Municipio de ocurrencia,1312,La Democracia
+mupio_ocu,Municipio de ocurrencia,1313,San Miguel Acatán
+mupio_ocu,Municipio de ocurrencia,1314,San Rafael La Independencia
+mupio_ocu,Municipio de ocurrencia,1315,Todos Santos Cuchumatán
+mupio_ocu,Municipio de ocurrencia,1316,San Juan Atitán
+mupio_ocu,Municipio de ocurrencia,1317,Santa Eulalia
+mupio_ocu,Municipio de ocurrencia,1318,San Mateo Ixtatán
+mupio_ocu,Municipio de ocurrencia,1319,Colotenango
+mupio_ocu,Municipio de ocurrencia,1320,San Sebastián Huehuetenango
+mupio_ocu,Municipio de ocurrencia,1321,Tectitán 
+mupio_ocu,Municipio de ocurrencia,1322,Concepción Huista
+mupio_ocu,Municipio de ocurrencia,1323,San Juan Ixcoy
+mupio_ocu,Municipio de ocurrencia,1324,San Antonio Huista
+mupio_ocu,Municipio de ocurrencia,1325,San Sebastián Coatán
+mupio_ocu,Municipio de ocurrencia,1326,Barrillas
+mupio_ocu,Municipio de ocurrencia,1327,Aguacatán
+mupio_ocu,Municipio de ocurrencia,1328,San Rafael Petzal
+mupio_ocu,Municipio de ocurrencia,1329,San Gaspar Ixchil
+mupio_ocu,Municipio de ocurrencia,1330,Santiago Chimaltenango
+mupio_ocu,Municipio de ocurrencia,1331,Santa Ana Huista
+mupio_ocu,Municipio de ocurrencia,1332,Unión Cantinil
+mupio_ocu,Municipio de ocurrencia,1333,Petatán
+mupio_ocu,Municipio de ocurrencia,1401,Santa Cruz del Quiché
+mupio_ocu,Municipio de ocurrencia,1402,Chiché
+mupio_ocu,Municipio de ocurrencia,1403,Chinique
+mupio_ocu,Municipio de ocurrencia,1404,Zacualpa
+mupio_ocu,Municipio de ocurrencia,1405,Chajul
+mupio_ocu,Municipio de ocurrencia,1406,Chichicastenango
+mupio_ocu,Municipio de ocurrencia,1407,Patzité
+mupio_ocu,Municipio de ocurrencia,1408,San Antonio Ilotenango
+mupio_ocu,Municipio de ocurrencia,1409,San Pedro Jocopilas
+mupio_ocu,Municipio de ocurrencia,1410,Cunén
+mupio_ocu,Municipio de ocurrencia,1411,San Juan Cotzal
+mupio_ocu,Municipio de ocurrencia,1412,Joyabaj
+mupio_ocu,Municipio de ocurrencia,1413,Santa María Nebaj
+mupio_ocu,Municipio de ocurrencia,1414,San Andrés Sajcabajá
+mupio_ocu,Municipio de ocurrencia,1415,San Miguel Uspantán
+mupio_ocu,Municipio de ocurrencia,1416,Sacapulas
+mupio_ocu,Municipio de ocurrencia,1417,San Bartolomé Jocotenango
+mupio_ocu,Municipio de ocurrencia,1418,Canillá
+mupio_ocu,Municipio de ocurrencia,1419,Chicamán
+mupio_ocu,Municipio de ocurrencia,1420,Ixcán
+mupio_ocu,Municipio de ocurrencia,1421,Pachalum
+mupio_ocu,Municipio de ocurrencia,1501,Salamá
+mupio_ocu,Municipio de ocurrencia,1502,San Miguel Chicaj
+mupio_ocu,Municipio de ocurrencia,1503,Rabinal
+mupio_ocu,Municipio de ocurrencia,1504,Cubulco
+mupio_ocu,Municipio de ocurrencia,1505,Granados
+mupio_ocu,Municipio de ocurrencia,1506,El Chol
+mupio_ocu,Municipio de ocurrencia,1507,San Jerónimo
+mupio_ocu,Municipio de ocurrencia,1508,Purulhá
+mupio_ocu,Municipio de ocurrencia,1601,Cobán
+mupio_ocu,Municipio de ocurrencia,1602,Santa Cruz Verapaz
+mupio_ocu,Municipio de ocurrencia,1603,San Cristóbal Verapaz
+mupio_ocu,Municipio de ocurrencia,1604,Tactic
+mupio_ocu,Municipio de ocurrencia,1605,Tamahú
+mupio_ocu,Municipio de ocurrencia,1606,Tucurú
+mupio_ocu,Municipio de ocurrencia,1607,Panzós
+mupio_ocu,Municipio de ocurrencia,1608,Senahú
+mupio_ocu,Municipio de ocurrencia,1609,San Pedro Carchá
+mupio_ocu,Municipio de ocurrencia,1610,San Juan Chamelco
+mupio_ocu,Municipio de ocurrencia,1611,Lanquín
+mupio_ocu,Municipio de ocurrencia,1612,Cahabón
+mupio_ocu,Municipio de ocurrencia,1613,Chisec
+mupio_ocu,Municipio de ocurrencia,1614,Chahal
+mupio_ocu,Municipio de ocurrencia,1615,Fray Bartolomé de las Casas
+mupio_ocu,Municipio de ocurrencia,1616,Santa Catarina La Tinta
+mupio_ocu,Municipio de ocurrencia,1617,Raxruhá
+mupio_ocu,Municipio de ocurrencia,1701,Flores
+mupio_ocu,Municipio de ocurrencia,1702,San José
+mupio_ocu,Municipio de ocurrencia,1703,San Benito
+mupio_ocu,Municipio de ocurrencia,1704,San Andrés
+mupio_ocu,Municipio de ocurrencia,1705,La Libertad
+mupio_ocu,Municipio de ocurrencia,1706,San Francisco
+mupio_ocu,Municipio de ocurrencia,1707,Santa Ana
+mupio_ocu,Municipio de ocurrencia,1708,Dolores
+mupio_ocu,Municipio de ocurrencia,1709,San Luis
+mupio_ocu,Municipio de ocurrencia,1710,Sayaxché
+mupio_ocu,Municipio de ocurrencia,1711,Melchor de Mencos
+mupio_ocu,Municipio de ocurrencia,1712,Poptún
+mupio_ocu,Municipio de ocurrencia,1713,Las Cruces
+mupio_ocu,Municipio de ocurrencia,1714,El Chal
+mupio_ocu,Municipio de ocurrencia,1801,Puerto Barrios
+mupio_ocu,Municipio de ocurrencia,1802,Livingston
+mupio_ocu,Municipio de ocurrencia,1803,El Estor
+mupio_ocu,Municipio de ocurrencia,1804,Morales
+mupio_ocu,Municipio de ocurrencia,1805,Los Amates
+mupio_ocu,Municipio de ocurrencia,1901,Zacapa
+mupio_ocu,Municipio de ocurrencia,1902,Estanzuela
+mupio_ocu,Municipio de ocurrencia,1903,Río Hondo
+mupio_ocu,Municipio de ocurrencia,1904,Gualán
+mupio_ocu,Municipio de ocurrencia,1905,Teculután
+mupio_ocu,Municipio de ocurrencia,1906,Usumatlán
+mupio_ocu,Municipio de ocurrencia,1907,Cabañas 
+mupio_ocu,Municipio de ocurrencia,1908,San Diego
+mupio_ocu,Municipio de ocurrencia,1909,La Unión
+mupio_ocu,Municipio de ocurrencia,1910,Huité
+mupio_ocu,Municipio de ocurrencia,1911,San Jorge
+mupio_ocu,Municipio de ocurrencia,2001,Chiquimula
+mupio_ocu,Municipio de ocurrencia,2002,San José la Arada
+mupio_ocu,Municipio de ocurrencia,2003,San Juan Ermita
+mupio_ocu,Municipio de ocurrencia,2004,Jocotán
+mupio_ocu,Municipio de ocurrencia,2005,Camotán
+mupio_ocu,Municipio de ocurrencia,2006,Olopa
+mupio_ocu,Municipio de ocurrencia,2007,Esquipulas
+mupio_ocu,Municipio de ocurrencia,2008,Concepción las Minas
+mupio_ocu,Municipio de ocurrencia,2009,Quezaltepeque
+mupio_ocu,Municipio de ocurrencia,2010,San Jacinto 
+mupio_ocu,Municipio de ocurrencia,2011,Ipala
+mupio_ocu,Municipio de ocurrencia,2101,Jalapa
+mupio_ocu,Municipio de ocurrencia,2102,San Pedro Pinula
+mupio_ocu,Municipio de ocurrencia,2103,San Luis Jilotepeque
+mupio_ocu,Municipio de ocurrencia,2104,San Manuel Chaparrón
+mupio_ocu,Municipio de ocurrencia,2105,San Carlos Alzatate
+mupio_ocu,Municipio de ocurrencia,2106,Monjas
+mupio_ocu,Municipio de ocurrencia,2107,Mataquescuintla
+mupio_ocu,Municipio de ocurrencia,2201,Jutiapa
+mupio_ocu,Municipio de ocurrencia,2202,El Progreso
+mupio_ocu,Municipio de ocurrencia,2203,Santa Catarina Mita
+mupio_ocu,Municipio de ocurrencia,2204,Agua Blanca
+mupio_ocu,Municipio de ocurrencia,2205,Asunción Mita
+mupio_ocu,Municipio de ocurrencia,2206,Yupiltepeque
+mupio_ocu,Municipio de ocurrencia,2207,Atescatempa
+mupio_ocu,Municipio de ocurrencia,2208,Jerez 
+mupio_ocu,Municipio de ocurrencia,2209,El Adelanto
+mupio_ocu,Municipio de ocurrencia,2210,Zapotitlán
+mupio_ocu,Municipio de ocurrencia,2211,Comapa
+mupio_ocu,Municipio de ocurrencia,2212,Jalpatagua
+mupio_ocu,Municipio de ocurrencia,2213,Conguaco
+mupio_ocu,Municipio de ocurrencia,2214,Moyuta
+mupio_ocu,Municipio de ocurrencia,2215,Pasaco
+mupio_ocu,Municipio de ocurrencia,2216,San José Acatempa
+mupio_ocu,Municipio de ocurrencia,2217,Quesada
+zona_ocu,Zona de ocurrencia,99,Ignorada
+sexo_per,Sexo de la persona,1,Hombre
+sexo_per,Sexo de la persona,2,Mujer
+sexo_per,Sexo de la persona,9,Ignorado
+edad_per,Edad de la persona,999,Ignorada
+g_edad_80ymás,Grupo de edad 80 y más,1,Menor de 15
+g_edad_80ymás,Grupo de edad 80 y más,2,15-19
+g_edad_80ymás,Grupo de edad 80 y más,3,20-24
+g_edad_80ymás,Grupo de edad 80 y más,4,25-29
+g_edad_80ymás,Grupo de edad 80 y más,5,30-34
+g_edad_80ymás,Grupo de edad 80 y más,6,35-39
+g_edad_80ymás,Grupo de edad 80 y más,7,40-44
+g_edad_80ymás,Grupo de edad 80 y más,8,45-49
+g_edad_80ymás,Grupo de edad 80 y más,9,50-54
+g_edad_80ymás,Grupo de edad 80 y más,10,55-59
+g_edad_80ymás,Grupo de edad 80 y más,11,60-64
+g_edad_80ymás,Grupo de edad 80 y más,12,65-69
+g_edad_80ymás,Grupo de edad 80 y más,13,70-74
+g_edad_80ymás,Grupo de edad 80 y más,14,75-80
+g_edad_80ymás,Grupo de edad 80 y más,15,80 y más
+g_edad_80ymás,Grupo de edad 80 y más,16,Ignorado
+g_edad_60ymás,Grupo de edad 60 y más,1,Menor de 15
+g_edad_60ymás,Grupo de edad 60 y más,2,15-19
+g_edad_60ymás,Grupo de edad 60 y más,3,20-24
+g_edad_60ymás,Grupo de edad 60 y más,4,25-29
+g_edad_60ymás,Grupo de edad 60 y más,5,30-34
+g_edad_60ymás,Grupo de edad 60 y más,6,35-39
+g_edad_60ymás,Grupo de edad 60 y más,7,40-44
+g_edad_60ymás,Grupo de edad 60 y más,8,45-49
+g_edad_60ymás,Grupo de edad 60 y más,9,50-54
+g_edad_60ymás,Grupo de edad 60 y más,10,55-59
+g_edad_60ymás,Grupo de edad 60 y más,11,60 y más
+g_edad_60ymás,Grupo de edad 60 y más,12,Ignorado
+edad_quinquenales,Edades quinquenales,1,0 - 4
+edad_quinquenales,Edades quinquenales,2,5 - 9
+edad_quinquenales,Edades quinquenales,3,10 - 14
+edad_quinquenales,Edades quinquenales,4,15 - 19 
+edad_quinquenales,Edades quinquenales,5,20 - 24 
+edad_quinquenales,Edades quinquenales,6,25 - 29 
+edad_quinquenales,Edades quinquenales,7,30 - 34 
+edad_quinquenales,Edades quinquenales,8,35 - 39 
+edad_quinquenales,Edades quinquenales,9,40 - 44 
+edad_quinquenales,Edades quinquenales,10,45 - 49 
+edad_quinquenales,Edades quinquenales,11,50 - 54 
+edad_quinquenales,Edades quinquenales,12,55 - 59 
+edad_quinquenales,Edades quinquenales,13,60 - 64 
+edad_quinquenales,Edades quinquenales,14,65 - 69 
+edad_quinquenales,Edades quinquenales,15,70 - 74 
+edad_quinquenales,Edades quinquenales,16,75 - 79 
+edad_quinquenales,Edades quinquenales,17,80 o más 
+edad_quinquenales,Edades quinquenales,18,Ignorado 
+mayor_menor,Mayor o menor,1,Mayor
+mayor_menor,Mayor o menor,2,Menor
+mayor_menor,Mayor o menor,9,Ignorado
+tipo_veh,Tipo de vehículo,1,Automóvil
+tipo_veh,Tipo de vehículo,2,Camioneta sport o blazer
+tipo_veh,Tipo de vehículo,3,Pick up
+tipo_veh,Tipo de vehículo,4,Motocicleta
+tipo_veh,Tipo de vehículo,5,Camión
+tipo_veh,Tipo de vehículo,6,Cabezal
+tipo_veh,Tipo de vehículo,7,Bus extraurbano
+tipo_veh,Tipo de vehículo,8,Jeep
+tipo_veh,Tipo de vehículo,9,Microbús
+tipo_veh,Tipo de vehículo,10,Taxi
+tipo_veh,Tipo de vehículo,11,Panel
+tipo_veh,Tipo de vehículo,12,Bus urbano
+tipo_veh,Tipo de vehículo,13,Tractor
+tipo_veh,Tipo de vehículo,14,Moto taxi
+tipo_veh,Tipo de vehículo,15,Furgón
+tipo_veh,Tipo de vehículo,16,Grúa
+tipo_veh,Tipo de vehículo,17,Bus escolar
+tipo_veh,Tipo de vehículo,18,Bicicleta
+tipo_veh,Tipo de vehículo,19,Avioneta
+tipo_veh,Tipo de vehículo,20,Montacargas
+tipo_veh,Tipo de vehículo,21,Bus militar
+tipo_veh,Tipo de vehículo,22,Cuatrimoto
+tipo_veh,Tipo de vehículo,23,Furgoneta
+tipo_veh,Tipo de vehículo,99,Ignorado
+marca_veh,Marca del vehículo,99,Ignorado
+color_veh,Color del vehículo,1,Rojo
+color_veh,Color del vehículo,2,Blanco
+color_veh,Color del vehículo,3,Azul
+color_veh,Color del vehículo,4,Gris
+color_veh,Color del vehículo,5,Negro
+color_veh,Color del vehículo,6,Verde
+color_veh,Color del vehículo,7,Amarillo
+color_veh,Color del vehículo,8,Celeste
+color_veh,Color del vehículo,9,Corinto
+color_veh,Color del vehículo,10,Café
+color_veh,Color del vehículo,11,Beige
+color_veh,Color del vehículo,12,Turquesa
+color_veh,Color del vehículo,13,Marfil
+color_veh,Color del vehículo,14,Anaranjado
+color_veh,Color del vehículo,15,Morado
+color_veh,Color del vehículo,16,Rosado
+color_veh,Color del vehículo,17,Varios colores
+color_veh,Color del vehículo,99,Ignorado
+modelo_veh,Modelo del vehículo,9999,Ignorado
+g_modelo_veh,Grupo modelo del vehículo,1,1970-1979
+g_modelo_veh,Grupo modelo del vehículo,2,1980-1989
+g_modelo_veh,Grupo modelo del vehículo,3,1990-1999
+g_modelo_veh,Grupo modelo del vehículo,4,2000-2009
+g_modelo_veh,Grupo modelo del vehículo,5,2010-2019
+g_modelo_veh,Grupo modelo del vehículo,99,Ignorado
+tipo_eve,Tipo de evento,1,Colisión
+tipo_eve,Tipo de evento,2,Choque
+tipo_eve,Tipo de evento,3,Vuelco
+tipo_eve,Tipo de evento,4,Caída
+tipo_eve,Tipo de evento,5,Atropello
+tipo_eve,Tipo de evento,6,Derrape
+tipo_eve,Tipo de evento,7,Embarranco
+tipo_eve,Tipo de evento,8,Encuneto
+tipo_eve,Tipo de evento,99,Ignorado
+fall_les,Fallecidos y lesionados,1,Fallecido
+fall_les,Fallecidos y lesionados,2,Lesionado
+int_o_noint,Internado o no internado,1,Internado
+int_o_noint,Internado o no internado,2,No internado
+int_o_noint,Internado o no internado,9,Ignorado
+estado_con,Estado del conductor,1,No ebrio
+estado_con,Estado del conductor,2,Ebrio
+estado_con,Estado del conductor,9,Ignorado
