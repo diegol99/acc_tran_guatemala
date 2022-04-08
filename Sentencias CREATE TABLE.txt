@@ -1,0 +1,81 @@
+--Se crea la tabla fallecidos_lesionados
+DROP TABLE IF EXISTS fallecidos_lesionados;
+CREATE TABLE fallecidos_lesionados(
+  N__m_corre INT NOT NULL UNIQUE,
+  a__o_ocu INT DEFAULT 2020,
+  d__a_ocu INT NOT NULL CHECK(d__a_ocu >= 1 AND d__a_ocu <= 31),
+  hora_ocu INT NOT NULL CHECK(hora_ocu >= 0 AND hora_ocu < 24),
+  g_hora INT NOT NULL CHECK(g_hora >= 1 AND g_hora < 5),
+  g_hora_5 INT NOT NULL CHECK(g_hora_5 >= 1 and g_hora_5 <= 3),
+  mes_ocu INT NOT NULL CHECK(mes_ocu >= 1 and g_hora_5 <= 12),
+  d__a_sem_ocu INT NOT NULL CHECK(d__a_sem_ocu >= 1 and d__a_sem_ocu <= 7),
+  depto_ocu INT NOT NULL CHECK(depto_ocu >= 1 AND depto_ocu <= 22),
+  mupio_ocu INT NOT NULL, 
+  zona_ocu INT DEFAULT 99,
+  sexo_per INT DEFAULT 99,
+  edad_per INT DEFAULT 999,
+  g_edad_80ym__s INT DEFAULT 16, 
+  g_edad_60ym__s INT DEFAULT 12,
+  edad_quinquenales INT DEFAULT 18,
+  mayor_menor INT DEFAULT 9,
+  tipo_veh INT DEFAULT 99,
+  marca_veh INT DEFAULT 999,
+  color_veh INT DEFAULT 99,
+  modelo_veh INT DEFAULT 9999,
+  g_modelo_veh INT DEFAULT 99,
+  tipo_eve INT DEFAULT 99,
+  fall_les INT NOT NULL,
+  int_o_noint INT DEFAULT 9
+  );
+  
+ --Se crea la tabla hechos_lesionados
+DROP TABLE IF EXISTS hechos_lesionados;
+CREATE TABLE hechos_lesionados(
+  N__m_corre INT NOT NULL UNIQUE,
+  A__o_ocu INT DEFAULT 2020,
+  D__a_ocu INT NOT NULL CHECK(d__a_ocu >= 1 AND d__a_ocu <= 31),
+  Hora_ocu INT NOT NULL CHECK(hora_ocu >= 0 AND hora_ocu < 24),
+  g_hora INT NOT NULL CHECK(g_hora >= 1 AND g_hora < 5),
+  g_hora_5 INT NOT NULL CHECK(g_hora_5 >= 1 and g_hora_5 <= 3),
+  Mes_ocu INT NOT NULL CHECK(mes_ocu >= 1 and g_hora_5 <= 12),
+  d__a_sem_ocu INT NOT NULL CHECK(d__a_sem_ocu >= 1 and d__a_sem_ocu <= 7),
+  depto_ocu INT NOT NULL CHECK(depto_ocu >= 1 AND depto_ocu <= 22),
+  mupio_ocu INT NOT NULL, 
+  zona_ocu INT DEFAULT 99,
+  tipo_veh INT DEFAULT 99,
+  marca_veh INT DEFAULT 999,
+  color_veh INT DEFAULT 99,
+  modelo_veh INT DEFAULT 9999,
+  g_modelo_veh INT DEFAULT 99,
+  tipo_eve INT DEFAULT 99
+  );
+
+
+--Se crea la tabla vehiculos_involucrados
+DROP TABLE IF EXISTS vehiculos_involucrados;
+CREATE TABLE vehiculos_involucrados(
+  N__m_corre INT NOT NULL UNIQUE,
+  A__o_ocu INT DEFAULT 2020,
+  D__a_ocu INT NOT NULL CHECK(d__a_ocu >= 1 AND d__a_ocu <= 31),
+  Hora_ocu INT NOT NULL CHECK(hora_ocu >= 0 AND hora_ocu < 24),
+  g_hora INT NOT NULL CHECK(g_hora >= 1 AND g_hora < 5),
+  g_hora_5 INT NOT NULL CHECK(g_hora_5 >= 1 and g_hora_5 <= 3),
+  Mes_ocu INT NOT NULL CHECK(mes_ocu >= 1 and g_hora_5 <= 12),
+  d__a_sem_ocu INT NOT NULL CHECK(d__a_sem_ocu >= 1 and d__a_sem_ocu <= 7),
+  depto_ocu INT NOT NULL CHECK(depto_ocu >= 1 AND depto_ocu <= 22),
+  mupio_ocu INT NOT NULL, 
+  zona_ocu INT DEFAULT 99,
+  sexo_per INT DEFAULT 99,
+  edad_per INT DEFAULT 999,
+  g_edad_80ym__s INT DEFAULT 16, 
+  g_edad_60ym__s INT DEFAULT 12,
+  edad_quinquenales INT DEFAULT 18,
+  estado_con INT DEFAULT 9,
+  mayor_menor INT DEFAULT 9,
+  tipo_veh INT DEFAULT 99,
+  marca_veh INT DEFAULT 999,
+  color_veh INT DEFAULT 99,
+  modelo_veh INT DEFAULT 9999,
+  g_modelo_veh INT DEFAULT 99,
+  tipo_eve INT DEFAULT 99
+  );
